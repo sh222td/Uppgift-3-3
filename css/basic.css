@@ -97,6 +97,10 @@ border-right:1px solid #51473d;
     height: 40px;
     background-color: #eae7d2;
     margin: 15px;
+    color: #797066;
+    font-family:verdana;
+    font-size:9px;
+    text-indent: 10px;
 }
 
 #maincontent h1 
@@ -148,7 +152,7 @@ border-right:1px solid #51473d;
 {
     color:#797066;
     font-size: 9px;
-    line-height: 2em;
+    line-height: 2.3em;
     font-family: verdana;
     margin-left: 10px;
     margin-right: 10px;
@@ -160,6 +164,7 @@ border-right:1px solid #51473d;
     margin:-30px;
     font-family:verdana;
     font-size: 14px;
+    line-height: 2em;
 }
 a:link {color:000000;}
 a:visited {color:#000000;}
